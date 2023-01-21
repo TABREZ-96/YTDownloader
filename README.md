@@ -9,9 +9,10 @@ YouTube Downloader is a simple and easy to use application that allows you to do
 - Option to download videos as audio only.
 - Download multiple videos at once.
 - View and manage your downloaded videos.
-- Simple and user-friendly interface.```
+- Simple and user-friendly interface. ```
 
 ## Usage
+
 ```1. Search for a video on YouTube.
 2. Copy the video's URL.
 3. Open the YouTube Downloader.py.
