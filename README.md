@@ -35,8 +35,7 @@ YouTube Downloader is a simple and easy to use application that allows you to do
 ```
 
 ## Installation
- ```Pip Install pytube
- ```
+ ```Pip Install pytube ```
 
 
 
